@@ -1,0 +1,9 @@
+{
+  "name": "xml-http-request-promise",
+  "version": "1.0.0",
+  "description": "Promisified xmlHttpRequest",
+  "main": "index.js",
+  "author": "Mike Toth",
+  "license": "GPLv3",
+  "private": false
+}
